@@ -1,2 +1,2 @@
 # matrix_subtraction
-Python program to input elements of two matrices and Subtract two matrices
+Python program to input number of roes and columns of matrix and input elements of two matrices and then subtract two matrices.
